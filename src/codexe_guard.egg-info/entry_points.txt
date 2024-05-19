@@ -1,0 +1,2 @@
+[console_scripts]
+codexe-hlpl1 = codexe.guard.hlpl1:run

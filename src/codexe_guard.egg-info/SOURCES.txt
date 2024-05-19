@@ -1,0 +1,10 @@
+setup.py
+src/codexe/__init__.py
+src/codexe/guard/__init__.py
+src/codexe/guard/hlpl1.py
+src/codexe_guard.egg-info/PKG-INFO
+src/codexe_guard.egg-info/SOURCES.txt
+src/codexe_guard.egg-info/dependency_links.txt
+src/codexe_guard.egg-info/entry_points.txt
+src/codexe_guard.egg-info/namespace_packages.txt
+src/codexe_guard.egg-info/top_level.txt

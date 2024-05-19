@@ -16,7 +16,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'codexe-hlpl1 = codexe.guard.hlpl1:start_exam',
+            'codexe-hlpl1 = codexe.guard.hlpl1:run',
         ]
     }
 )

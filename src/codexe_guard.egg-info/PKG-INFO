@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: codexe-guard
+Version: 0.1.0
+Home-page: 
+Author: Róbert Tóth
+Author-email: toth.robert@inf.unideb.hu
+License: APACHE LICENSE, VERSION 2.0
+Requires-Python: >=3.10.0
